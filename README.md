@@ -1,3 +1,3 @@
 Welcome to Web Element's Documentation.
 
-Visit [[Welcome]] to get started.
+Please install [Obsadian](https://obsidian.md/) and then visit the [[Welcome]] page to get started.
