@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clients.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clients.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clients.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clients.md"
+                "file": "Welcome.md"
               }
             }
           }
@@ -173,12 +173,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "06cdeb79f5714e75",
+  "active": "da7a209fb6eafe70",
   "lastOpenFiles": [
-    "Welcome.md",
+    "Software",
     "Clients.md",
+    "Welcome.md",
     "Client Types.md",
-    "AVCorn CMS.md",
+    "Software/AVCorn CMS.md",
     "Software We Develop.md",
     "Leads.md",
     "Tools We Use.md",
@@ -200,7 +201,6 @@
     "Company Types/Barbershop.md",
     "Company Types/Bakery.md",
     "Company Types/Automotive Shop.md",
-    "Company Types/Artist.md",
     "Templates/Untitled.canvas",
     "People",
     "Templates",
